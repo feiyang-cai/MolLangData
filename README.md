@@ -17,7 +17,6 @@
 ## Table of contents
 
 - [Dataset](#dataset)
-- [Collaboration](#collaboration)
 - [OPSIN (IUPAC → XML / SMILES)](#opsin-iupac--xml--smiles)
 - [Requirements](#requirements)
 - [Quick start: single molecule](#single-molecule-get-prompt-and-description-from-iupac)
@@ -35,14 +34,6 @@
 |----------|-------|-------------|
 | **MolLangData** | [GitHub](https://github.com/TheLuoFengLab/MolLangData) · [Hugging Face](https://huggingface.co/datasets/ChemFM/MolLangData) | Main dataset on Hugging Face (~163k samples). We are actively expanding beyond this release. |
 | **MolLangBench** (ICLR 2026) | [GitHub](https://github.com/TheLuoFengLab/MolLangBench) · [Hugging Face](https://huggingface.co/datasets/ChemFM/MolLangBench) | Human-curated benchmark for molecular structure recognition, editing, and generation. The generation task aligns with structural description in this work and serves as a standard, validated evaluation. |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-## Collaboration
-
-We are actively pursuing research on molecular–language alignment, including dataset curation and multimodal model development. If you are interested in collaborating, please contact [Feiyang Cai](mailto:feiyang@clemson.edu).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
