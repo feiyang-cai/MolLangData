@@ -1,0 +1,5 @@
+# LLM backends (for --get-description)
+openai>=1.0.0
+
+# Molecule properties and difficulty level (RDKit required)
+rdkit>=2023.9.0
