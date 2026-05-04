@@ -5,7 +5,6 @@
 [![Hugging Face](https://img.shields.io/badge/🤗%20Datasets-AnonymousMolLangData-yellow)](https://huggingface.co/datasets/mollangdata/MolLangData)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**Anonymous review snapshot.**  
 **MolLangData** is a large-scale dataset of molecular structures paired with natural-language descriptions, generated via a rule-regularized method. It supports training and evaluating models for molecular structure-language alignment.
 
 ---
@@ -25,9 +24,9 @@
 
 We use a customized OPSIN fork that adds **complete XML structure metadata** for building prompts:
 
-- **Fork:** anonymous review link to be added later
+- **Fork:** <https://anonymous.4open.science/r/mollangdata_customized_opsin>
 - The repository is for reference; a **compiled JAR** is provided for the single-molecule workflow below.
-- The OPSIN fork README and usage will be linked in the anonymous review version when ready.
+- The OPSIN fork README and usage are available at the anonymous link above.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
