@@ -26,7 +26,6 @@
 | Resource | Links | Description |
 |----------|-------|-------------|
 | **MolLangData** | [Anonymous Hugging Face](https://huggingface.co/datasets/mollangdata/MolLangData) | Main molecule-description dataset. |
-| **MolLangBench** | Included evaluation sets | Human-curated benchmark for molecular structure recognition, editing, and generation. |
 | **LangMolDiode** | [Anonymous repository](https://anonymous.4open.science/r/LangMolDiode/) | Language-conditional molecule generator trained with SFT and reinforcement learning on MolLangData. |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
