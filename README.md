@@ -11,7 +11,7 @@
 
 ## Table of contents
 
-- [Dataset](#dataset)
+- [Project Resources](#project-resources)
 - [OPSIN (IUPAC → XML / SMILES)](#opsin-iupac--xml--smiles)
 - [Requirements](#requirements)
 - [Quick start: single molecule](#single-molecule-get-prompt-and-description-from-iupac)
@@ -21,7 +21,7 @@
 
 ---
 
-## Dataset
+## Project Resources
 
 | Resource | Links | Description |
 |----------|-------|-------------|
