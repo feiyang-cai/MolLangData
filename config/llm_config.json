@@ -1,0 +1,21 @@
+{
+  "backend": "azure",
+  "poll_interval": 30,
+  "print_interval": 60,
+  "attempts": 1,
+  "easy": {
+    "model": "gpt-5.2",
+    "reasoning_effort": "xhigh",
+    "timeout": 1800
+  },
+  "medium": {
+    "model": "gpt-5.2",
+    "reasoning_effort": "xhigh",
+    "timeout": 1800
+  },
+  "hard": {
+    "model": "gpt-5.2",
+    "reasoning_effort": "xhigh",
+    "timeout": 1800
+  }
+}
